@@ -14,9 +14,10 @@ Email: linyujian@stu.ouc.edu.cn
 
 <div style="height: 0.5em;"></div>
 
-**Weighted average score of all courses**: 90.119&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Major Ranking**: 2/46&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**GPA**: 3.726/4
+**Weighted average score of all courses**: 90.119&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**Major Ranking**: 2/46&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**GPA**: 3.726/4
 
 <div style="height: 0.5em;"></div>
+
 **CTE4**: 615&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;**CET6**: 574
 
 <div style="height: 0.5em;"></div>
