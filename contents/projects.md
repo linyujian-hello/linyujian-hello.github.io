@@ -48,5 +48,6 @@
 - Implemented numerical statistics in **C++**, image normalization with **OpenCV**, and word segmentation and word frequency statistics using **STL**. 
 - Applied **Laplacian mechanism** to add noise, calculated MSE, PSNR, and SSIM. 
 - Performed visual analysis with **Matplotlib** and **Seaborn**, providing quantitative references for data privacy protection in multimodal large models.
+
 [![Data_Privacy_Protection](https://img.shields.io/badge/Data_Privacy_Protection-github-blue?logo=github)](https://github.com/linyujian-hello/Data_Privacy_Protection)
 
