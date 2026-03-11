@@ -17,6 +17,9 @@ Email: linyujian@stu.ouc.edu.cn
 Weighted average score of all courses: **90.119**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;Major Ranking: **2/46**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;GPA: **3.726/4**
 
 <div style="height: 0.5em;"></div>
+CTE4: **615**&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;CET6: **574**
+
+<div style="height: 0.5em;"></div>
 
 Core Courses:  Object-Oriented Programming (**95**),     Discrete Mathematics (**96**), Introduction to Robotics (**95.5**),  Comprehensive Practice in Artificial Intelligence (**95**）,Introduction to Artificial Intelligence (**96**)
 
