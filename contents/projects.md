@@ -28,7 +28,7 @@
 
 <br>
 <br>
-## New Quality Productive Forces Empowering Corporate Resilience of Marine Enterprises – Numpy, Pandas<br>
+## New Quality Productive Forces Empowering Marine Enterprise Resilience – Numpy, Pandas, Origin<br>
 
 **Role**: Core Member
 
