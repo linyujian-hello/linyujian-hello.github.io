@@ -1,4 +1,4 @@
-**Power Tower Line Bird's Nest Automatic Detection System - PyTorch, PyQt5**
+Power Tower Line Bird's Nest Automatic Detection System - PyTorch, PyQt5
 
 **Role**: Leader
 
@@ -8,10 +8,8 @@
 - Performed manual annotation and quality review of data, and augmented data using the **toolkit** (provided by the project below). 
 - Conduct transfer learning based on the **PyTorch** framework, optimized loss functions, tuned hyperparameters, and achieved **89% mAP@0.5** on the test set. 
 - Integrat with **PyQt5** interface using **OpenCV**, and adapt to **NPU** through ONNX and ATC conversion.
-
-
-&nbsp;
-
+<br>
+<br>
 
 **Image Enhancement Tool for Few-shot Tasks - Python, OpenCV**
 
@@ -26,10 +24,8 @@
 
 [![image_augmentor](https://img.shields.io/badge/image_augmentor-github-blue?logo=github)](https://github.com/linyujian-hello/image_augmentor)
 
-
-&nbsp;
-
-
+<br>
+<br>
 **New Quality Productive Forces Empowering Corporate Resilience of Marine Enterprises – Numpy, Pandas, Origin** 
 **Role**: Core Member
 
@@ -42,9 +38,8 @@
 - Construct structural equation models and conducted significance testing using **Semopy** and **SPSS**. 
 - Performed visual analysis with **Origin** and other plotting tools to intuitively present key findings.
 
-
-&nbsp;
-
+<br>
+<br>
 
 **Multimodal Data Privacy Protection Tool – C++, STL, OpenCV**
 
