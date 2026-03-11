@@ -10,7 +10,7 @@
 - Integrat with **PyQt5** interface using **OpenCV**, and adapt to **NPU** through ONNX and ATC conversion.
 
 
-
+&nbsp;
 
 
 **Image Enhancement Tool for Few-shot Tasks - Python, OpenCV**
@@ -27,7 +27,7 @@
 [![image_augmentor](https://img.shields.io/badge/image_augmentor-github-blue?logo=github)](https://github.com/linyujian-hello/image_augmentor)
 
 
-
+&nbsp;
 
 
 **New Quality Productive Forces Empowering Corporate Resilience of Marine Enterprises – Numpy, Pandas, Origin** 
@@ -43,7 +43,7 @@
 - Performed visual analysis with **Origin** and other plotting tools to intuitively present key findings.
 
 
-
+&nbsp;
 
 
 **Multimodal Data Privacy Protection Tool – C++, STL, OpenCV**
