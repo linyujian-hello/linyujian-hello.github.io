@@ -30,7 +30,7 @@
 <br>
 ## New Quality Productive Forces Empowering Marine Enterprise Resilience – Numpy, Pandas, Origin
 
-<br>**Role**: Core Member
+**Role**: Core Member
 
 **Project Overview**: Focusing on the empowering effect of "new quality productive forces" on the resilience of marine enterprises, this project quantifies the specific pathways through which new quality productive forces affect corporate resilience. It collects multi-source data from marine enterprises, constructs comprehensive indicators for new quality productive forces and resilience, and provides quantitative support and constructive suggestions for corporate strategic adjustments.
 
