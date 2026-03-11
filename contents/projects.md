@@ -1,4 +1,4 @@
-## Power Tower Line Bird's Nest Automatic Detection System - PyTorch, PyQt5
+## Automatic Bird-Nest Detection System for Power Line Towers - PyTorch, PyQt5
 
 **Role**: Leader
 
