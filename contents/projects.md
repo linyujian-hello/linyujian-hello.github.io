@@ -28,7 +28,7 @@
 
 <br>
 <br>
-## New Quality Productive Forces Empowering Corporate Resilience of Marine Enterprises – Numpy, Pandas, Origin
+## New Quality Productive Forces Empowering Corporate Resilience of Marine Enterprises – Numpy, Pandas, Origin<br>
 
 **Role**: Core Member
 
@@ -44,13 +44,13 @@
 <br>
 <br>
 
-## Multimodal Data Privacy Protection Tool – C++, STL, OpenCV
+## Multimodal Data Privacy Protection Tool – C++, STL, OpenCV<br>
 
-**Role**: Independent Developer
+**Role**: Independent Developer<br>
 
-**Project Overview**: Addressing the privacy protection issues of multimodal data during publication and sharing, this project designs a protection system based on differential privacy. It adds noise to data in three modalities: numerical, image, and text, constructing a reusable privacy protection tool that supports integration into the data preprocessing stage of multimodal large models.
+**Project Overview**: Addressing the privacy protection issues of multimodal data during publication and sharing, this project designs a protection system based on differential privacy. It adds noise to data in three modalities: numerical, image, and text, constructing a reusable privacy protection tool that supports integration into the data preprocessing stage of multimodal large models.<br>
 
-**Technical Highlights**: 
+**Technical Highlights**: <br>
 
 - Implemented numerical statistics in **C++**, image normalization with **OpenCV**, and word segmentation and word frequency statistics using **STL**. 
 - Applied **Laplacian mechanism** to add noise, calculated MSE, PSNR, and SSIM. 
