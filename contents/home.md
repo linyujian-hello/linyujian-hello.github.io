@@ -25,5 +25,5 @@ Email: linyujian@stu.ouc.edu.cn
 **Core Courses**: Introduction to Artificial Intelligence (95.5), Comprehensive Practice in Artificial Intelligence (95), Operating Systems (96), Object-Oriented Programming (95), Introduction to Robotics (95.5)
 
 #### Research Interests
-Medical AI; Computer-Aided Diagnosis; Medical Image Processing and Analysis; Sentiment Analysis
+Artificial Intelligence, Computer Vision, Large Multimodal Model, Multimedia
 
